@@ -1,0 +1,24 @@
+h1{
+    color: aquamarine;
+    text-align: center;
+    font-family: Ani;
+    font-size: 60px;
+}
+h2{
+    color: aqua;
+    text-align: center;
+    font-family:"Nimbus Roman";
+    font-size: 40px;
+
+
+}
+body{
+    background-color:black;
+}
+ul,ol{
+    text-align: center;
+    color: beige;
+    font-family: "Century Schoolbook L";
+    font-size: 18px;
+    list-style-position: inside;
+}
